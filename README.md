@@ -31,10 +31,14 @@ Research: Valores: 0 = Não, 1 = Sim.<br>
 
 
 <h5>Exemplo 2:</h5>
+<img width="434" height="178" alt="image" src="https://github.com/user-attachments/assets/067f4566-4d51-4dee-972d-003ba77447da" />
+
 <img width="282" height="217" alt="image" src="https://github.com/user-attachments/assets/112f209b-c62b-44e9-83d3-fd32b55240b9" />
 
 
 <h5>Exemplo 3:</h5>
+<img width="433" height="180" alt="image" src="https://github.com/user-attachments/assets/12c33ae5-cfc6-46d0-8c0e-4bf4699ee79e" />
+
 <img width="279" height="211" alt="image" src="https://github.com/user-attachments/assets/0fb6c958-8196-426f-bc79-608af2466161" />
 
 
@@ -49,4 +53,6 @@ Research: Valores: 0 = Não, 1 = Sim.<br>
 <img width="277" height="213" alt="image" src="https://github.com/user-attachments/assets/72524257-3d33-4dcc-9b22-802a423c3476" />
 
 <h5>Exemplo 7:</h5>
+<img width="430" height="171" alt="image" src="https://github.com/user-attachments/assets/c02fbf76-bd08-4ce0-849f-5bfdaf5c7459" />
+
 <img width="284" height="213" alt="image" src="https://github.com/user-attachments/assets/b14d44fc-c752-475e-9341-35bdbaeb8faa" />
